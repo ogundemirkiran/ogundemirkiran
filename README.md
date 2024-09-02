@@ -4,13 +4,6 @@
 
 <h1 align="center">I'm <a href="https://github.com/ogundemirkiran">Ogün Demirkıran<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
-
-- ⚡: I worked as an accountant for 3 years.
-- ⚡: I was promoted to the chief of accounting and made the management and operation planning of a team of 5 people.
-- ⚡: I am a researcher, innovative, responsible, patient person.
-- ⚡: I started learning about software in 2021.
-- ⚡: I make a diligent effort to keep myself up to date and increase my knowledge.
 
 <hr>
 <Br>
